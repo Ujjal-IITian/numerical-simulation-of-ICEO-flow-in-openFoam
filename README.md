@@ -11,7 +11,8 @@ This repository contains simulation setups, meshes, and post-processed results a
 * **Paper Title:** Asymmetric Induced-Charge Electroosmotic Flows around Partially Conducting Cylinders in Shear-Thinning Fluids
 * **Authors:** Saurabh Maurya, Avinash Mourya, Ujjal Das, Nilanjan Dutta, Mohit Trivedi, and Neelkanth Nirmalkar*
 * **Journal:** *Industrial & Engineering Chemistry Research* (2026)
-* **Full Article Link:** [https://doi.org](https://doi.org)
+* **Full Article:** [Industrial & Engineering Chemistry Research — DOI: 10.1021/acs.iecr.6c04036](https://doi.org/10.1021/acs.iecr.6c04036)
+
 
 ## Tools
 
