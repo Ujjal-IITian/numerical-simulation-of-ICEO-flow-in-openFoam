@@ -1,7 +1,14 @@
 # Induced-Charge Electroosmotic Flow Around a Half-Conducting Cylinder
 
-[![DOI](https://shields.io)](https://doi.org)
-[![Journal](https://shields.io)](https://acs.org)
+<p>
+  <a href="https://doi.org">
+    <img src="https://shields.io" alt="DOI">
+  </a>
+  <a href="https://acs.org">
+    <img src="https://shields.io" alt="Journal">
+  </a>
+</p>
+
 
 ## Overview
 
