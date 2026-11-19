@@ -1,0 +1,35 @@
+cff-version: 1.0.0
+message: "If you use the data or findings from this repository, please cite our published research paper below."
+title: "Asymmetric Induced-Charge Electroosmotic Flows around Partially Conducting Cylinders in Shear-Thinning Fluids"
+type: dataset
+authors:
+  - family-names: "Das"
+    given-names: "Ujjal"
+    affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Ropar"
+url: "https://github.com"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Maurya"
+      given-names: "Saurabh"
+      affiliation: "Department of Chemical Engineering, Indian Institute of Technology Ropar"
+    - family-names: "Mourya"
+      given-names: "Avinash"
+      affiliation: "Department of Chemical Engineering, Indian Institute of Technology Ropar"
+    - family-names: "Das"
+      given-names: "Ujjal"
+      affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Ropar"
+    - family-names: "Dutta"
+      given-names: "Nilanjan"
+      affiliation: "Department of Chemical Engineering, Indian Institute of Technology Ropar"
+    - family-names: "Trivedi"
+      given-names: "Mohit"
+      affiliation: "Department of Chemical Engineering, National Institute of Technology Warangal"
+    - family-names: "Nirmalkar"
+      given-names: "Neelkanth"
+      affiliation: "Department of Chemical Engineering, Indian Institute of Technology Ropar"
+  title: "Asymmetric Induced-Charge Electroosmotic Flows around Partially Conducting Cylinders in Shear-Thinning Fluids"
+  journal: "Industrial & Engineering Chemistry Research"
+  year: 2026
+  doi: "10.1021/acs.iecr.6c04036"
+  url: "https://doi.org"
