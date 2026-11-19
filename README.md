@@ -1,8 +1,5 @@
 # Induced-Charge Electroosmotic Flow Around a Half-Conducting Cylinder
 
-**Full Article:** [Industrial & Engineering Chemistry Research — DOI: 10.1021/acs.iecr.6c04036](https://doi.org/10.1021/acs.iecr.6c04036)
-
-
 ## Overview
 
 Numerical study of **induced-charge electroosmotic (ICEO) flow around a half-conducting cylinder** using **OpenFOAM**.
